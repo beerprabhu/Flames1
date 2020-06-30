@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flames Intresting Game</string>
+
+    <string name="f"> is your Friend</string>
+    <string name="l"> Loves you</string>
+    <string name="a"> Affection towards you</string>
+    <string name="m"> Marriage</string>
+    <string name="e"> is your Enemy</string>
+    <string name="s"> is your Sibling</string>
+
+</resources>
